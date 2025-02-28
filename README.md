@@ -45,6 +45,7 @@ This project analyzes BlinkIt’s historical sales data to derive actionable ins
 
 ## 📈 Power BI Dashboard
 **6 Interactive Charts:**
+
 ✔ **Sales by Fat Content**
 ✔ **Outlet Location & Fat Content Impact on Sales**
 ✔ **Item Type & Fat Content Impact on Sales**
@@ -53,6 +54,7 @@ This project analyzes BlinkIt’s historical sales data to derive actionable ins
 ✔ **Sales by Outlet Establishment Year**
 
 **7 Filters:**
+
 ✔ **Outlet Location Type**
 ✔ **Outlet Size**
 ✔ **Item Type**
