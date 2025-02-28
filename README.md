@@ -39,7 +39,7 @@ This project analyzes BlinkIt’s historical sales data to derive actionable ins
 - **Years_Since_Establishment** (2025 - Establishment Year)
 - **Visibility_per_Weight** (Item Visibility / Item Weight)
 - **Sales_per_Outlet_Type** (Average sales per outlet type)
-- **Interaction Features:** *Visibility x Item Type, Weight x Item Type*
+- **Interaction Features:** (Visibility x Item Type, Weight x Item Type)
 
 ---
 
