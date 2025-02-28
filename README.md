@@ -45,11 +45,21 @@ This project analyzes BlinkIt’s historical sales data to derive actionable ins
 
 ## 📈 Power BI Dashboard
 **6 Interactive Charts:**
-✔ **Sales by City Tier & Outlet Location**
+✔ **Sales by Fat Content**
+✔ **Outlet Location & Fat Content Impact on Sales**
 ✔ **Item Type & Fat Content Impact on Sales**
 ✔ **Outlet Size Performance Comparison**
-✔ **Discount Effect on Sales**
-✔ **Store-Level Trends & Insights**
+✔ **Outlet Location Performance Comparison**
+✔ **Sales by Outlet Establishment Year**
+
+**7 Filters:**
+✔ **Outlet Location Type**
+✔ **Outlet Size**
+✔ **Item Type**
+✔ **Total Sales**
+✔ **Average Sales**
+✔ **No. Of Items**
+✔ **Average Rating**
 
 ---
 
