@@ -1,7 +1,7 @@
 # BlinkIt Sales Analytics 🚀
 
 ## 📌 Overview
-This project analyzes BlinkIt’s historical sales data to derive actionable insights and predict sales. It leverages **Power BI for interactive visualizations** and **machine learning models for sales forecasting**, helping optimize inventory, stock management, pricing, and store performance.
+This project analyzes BlinkIt’s historical sales data to derive actionable insights and predict sales. It leverages **Power BI for interactive visualizations** and **machine learning models for predcting sales helping optimize inventory, stock management, and store performance**.
 
 ---
 
