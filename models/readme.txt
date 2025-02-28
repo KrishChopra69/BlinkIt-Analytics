@@ -9,3 +9,4 @@ https://drive.google.com/file/d/1EwigIAW-OZHuGLRtNSUjkAu27gJzINsW/view?usp=shari
 2. Place the `random_forest_final.pkl` file in the `models/` folder of this repository (e.g., "C:\path\to\your\project\models\random_forest_final.pkl").
 3. Update any scripts (e.g., "scripts/pred graphs.py") to reference the local path:
    model_path = "C:\path\to\your\project\models\random_forest_final.pkl"
+4. Ensure you have joblib installed (pip install joblib) to load the model.
