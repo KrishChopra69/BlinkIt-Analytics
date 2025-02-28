@@ -55,13 +55,13 @@ This project analyzes BlinkIt’s historical sales data to derive actionable ins
 
 **7 Filters:**
 
-✔ **Outlet Location Type**
-✔ **Outlet Size**
-✔ **Item Type**
-✔ **Total Sales**
-✔ **Average Sales**
-✔ **No. Of Items**
-✔ **Average Rating**
+- ✔ **Outlet Location Type**
+- ✔ **Outlet Size**
+- ✔ **Item Type**
+- ✔ **Total Sales**
+- ✔ **Average Sales**
+- ✔ **No. Of Items**
+- ✔ **Average Rating**
 
 ---
 
@@ -105,10 +105,10 @@ This project analyzes BlinkIt’s historical sales data to derive actionable ins
 ---
 
 ## 📢 How to Use
-1️⃣ Clone the repo: `git clone https://github.com/KrishChopra69/BlinkIt-Analytics.git`
-2️⃣ Install dependencies: `pip install -r requirements.txt`
-3️⃣ Run the Python scripts in **VSCode** for **EDA & Model Training**
-4️⃣ Open the **Power BI file** to explore the Dashboard
+- 1️⃣ Clone the repo: `git clone https://github.com/KrishChopra69/BlinkIt-Analytics.git`
+- 2️⃣ Install dependencies: `pip install -r requirements.txt`
+- 3️⃣ Run the Python scripts in **VSCode** for **EDA & Model Training**
+- 4️⃣ Open the **Power BI file** to explore the Dashboard
 
 ---
 
